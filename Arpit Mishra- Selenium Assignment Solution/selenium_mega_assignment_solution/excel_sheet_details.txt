@@ -1,0 +1,29 @@
+State_wise_result:   following excel file contains total of 9 sheet as per the 9 questions' output.
+	
+	-Sheet1: candidates_with_MaxVote
+				name of candidates(constituency-wise), who won with maximum number of votes in each state.
+	
+	-Sheet2: candidates_with_MinVote
+			name of candidates(constituency-wise), who won with minimum number of votes in each state.
+			
+	-Sheet3: maximum_vote_difference_margin
+			name of winner candidates(constituency-wise),Runner-Up candidates(constituency-wise), who won with maximum number of vote-difference in each state.
+	
+	-Sheet4: minimum_vote_difference_margin
+			name of winner candidates(constituency-wise),Runner-Up candidates(constituency-wise), who won with minimum number of vote-difference in each state.
+	
+	-Sheet5: maximum_vote_percentage_differe
+			name of winner candidates(constituency-wise),Runner-Up candidates(constituency-wise), who won with maximum vote-percentage-difference in each state.
+	
+	-Sheet6: minimum_vote_percentage_differe
+			name of winner candidates(constituency-wise),Runner-Up candidates(constituency-wise), who won with minimum vote-percentage-difference in each state.
+	
+	-Sheet7: maximum_vote_percentage_winner
+			name of candidates(constituency-wise), who won with maximum percentage of votes in each state.
+	
+	-Sheet8: minimum_vote_percentage_winner
+			name of candidates(constituency-wise), who won with minimum percentage of votes in each state.
+	
+	-Sheet9: miscellaneous_Data
+			this sheet contains statewise count of candidates who got less number of votes than NOTA,
+			and count of candidates who have got more than 50% votes in each state.

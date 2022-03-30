@@ -1,0 +1,41 @@
+User is on Net Banking landing page
+User login into application with username and password
+Home page is populated
+
+Cards are displayed
+
+User is on Net Banking landing page
+Username jin Password 1234
+Home page is populated
+
+Value returned true
+
+User is on Net Banking landing page
+Username john Password 4321
+Home page is populated
+
+Value returned false
+
+User is on Net Banking landing page
+userName: user1 and Password: pass1
+Home page is populated
+
+Value returned true
+
+User is on Net Banking landing page
+userName: user2 and Password: pass2
+Home page is populated
+
+Value returned true
+
+User is on Net Banking landing page
+userName: user3 and Password: pass3
+Home page is populated
+
+Value returned true
+
+User is on Net Banking landing page
+userName: user4 and Password: pass4
+Home page is populated
+
+Value returned true

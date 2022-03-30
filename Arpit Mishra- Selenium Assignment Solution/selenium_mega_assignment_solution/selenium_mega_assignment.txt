@@ -1,0 +1,20 @@
+2022 Elections
+
+https://results.eci.gov.in/ResultAcGenMar2022/ConstituencywiseS0510.htm?ac=10
+
+*each questions are statewise
+*output should be name of constituency, candidate name, and vote number/percentage or whatever is the deciding factor, dump all the data in excel
+with column(all column+state+constituency name).
+
+
+1. get the candidate which has got the maximum vote in each state with their constituency name.
+2. get the candidate which has got the maximum percentage of vote in each state with their constituency name.(percentage)
+3. candidate who won with maximum vote difference.
+4. candidate who won with maximum vote percentage difference.
+5. candidate who won with minimum vote. 
+6. candidate who won with minimum vote percentage.
+7. total count of candidate who have got less vote than nota.
+8. total count of candidates who have got greater than 50% vote.
+9. name of candidate who have got minimum vote in each state.
+
+
